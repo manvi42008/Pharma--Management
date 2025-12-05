@@ -1,0 +1,6 @@
+-934019912,cd "c:\Users\manvi\OneDrive\Desktop\New folder\sr,4220631
+-934019912," ; if ($?) { gcc tempCodeRunnerFile.c -o tempCod,4220677
+-934019912,unnerFile } ; if ($?) { .\tempCodeRunnerFile },4220677
+-934019912,"c:\Users\manvi\OneDrive\Desktop\New folder\src\",4220677
+-934019912,if ($?) { gcc utils.c -o utils } ; if ($?) { .\ut,4220677
+23,dolo650,12
